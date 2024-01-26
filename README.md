@@ -1,5 +1,4 @@
-- 👋 Mi nombre es Santiago Viva. Me encuentro finalizando mis estudios como desarrollador 
-de software.
+- 👋 Mi nombre es Santiago Viva. Soy desarrollador de software.
  
 - 👀  Desde que comencé mi carrera en el mundo de la programación he 
 estado interesado en aprender y desarrollar mis habilidades técnicas. En mis 
